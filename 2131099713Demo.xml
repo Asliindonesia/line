@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<firstscreenapps>
+    <application>
+        <apkid>com.appwallet.blendme</apkid>
+        <appname>Blend Me</appname>
+        <imageurl>http://www.appwallettech.com/appwalletftp/images/adicon/blendMe.png</imageurl>
+        <appstorelink>https://play.google.com/store/apps/details?id=com.appwallet.blendme</appstorelink>
+    </application>
+    <application>
+        <apkid>com.appwallet.echomirrormagic</apkid>
+        <appname>Echo</appname>
+        <imageurl>http://www.appwallettech.com/appwalletftp/images/adicon/echo.png</imageurl>
+        <appstorelink>https://play.google.com/store/apps/details?id=com.appwallet.echomirrormagic</appstorelink>
+    </application>
+    <application>
+        <apkid>com.appwallet.CutOut</apkid>
+        <appname>CutOut</appname>
+        <imageurl>http://www.appwallettech.com/appwalletftp/images/adicon/bgeraser.png</imageurl>
+        <appstorelink>https://play.google.com/store/apps/details?id=com.appwallet.CutOut</appstorelink>
+    </application>
+    <application>
+        <apkid>com.appwallet.instantquotes</apkid>
+        <appname>Quotopic</appname>
+        <imageurl>http://www.appwallettech.com/appwalletftp/images/adicon/quotopic.png</imageurl>
+        <appstorelink>https://play.google.com/store/apps/details?id=com.appwallet.instantquotes</appstorelink>
+    </application>
+    <application>
+        <apkid>com.appwallet.manhairstylepro</apkid>
+        <appname>ManHairMustache</appname>
+        <imageurl>http://www.appwallettech.com/appwalletftp/images/adicon/Manhairmustache.png</imageurl>
+        <appstorelink>https://play.google.com/store/apps/details?id=com.appwallet.manhairstylepro</appstorelink>
+    </application>
+    <application>
+        <apkid>com.appwallet.photoblur3</apkid>
+        <appname>Focus Blur</appname>
+        <imageurl>http://www.appwallettech.com/appwalletftp/images/adicon/focusblur.png</imageurl>
+        <appstorelink>https://play.google.com/store/apps/details?id=com.appwallet.photoblur3</appstorelink>
+    </application>
+</firstscreenapps>
